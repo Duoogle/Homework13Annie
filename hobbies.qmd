@@ -1,0 +1,20 @@
+---
+title: "Hobbies"
+format:
+  html:
+    theme: vapor
+    toc: true
+---
+
+## My Hobbies
+
+### 🎮 Gaming
+I enjoy playing RPGs. My favorite is *The Legend of Zelda*. I'm pretty good at solving puzzles and love immersive worlds. Currently playing *Wuthering Waves* and *Honkai Star Rail*.
+
+### 🖼️ Drawing
+I draw digital art in my free time using Procreate. It's relaxing and helps me express my creativity.
+
+###  🎶 Music
+I play 3–4 times a week. It keeps me healthy and clears my mind.
+
+![Music](images/music.jpg)

@@ -1,0 +1,37 @@
+---
+title: "Annie Huppenthal"
+format:
+  html:
+    theme: vapor
+about:
+  template: jolla
+  image: images/gg.jpeg
+  links:
+    - icon: envelope
+      text: "Email Me"
+      href: "mailto:annie@example.com"
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/Duoogle
+---
+
+
+## Skills
+
+- Data visualization with ggplot2
+- Web development using Quarto
+- Creative writing
+
+## Education
+
+- Currently studying Biology and Math at CU Denver 
+- Major: Biology and Math
+- Courses taken: too many biology classes
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```

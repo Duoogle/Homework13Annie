@@ -1,0 +1,23 @@
+project:
+  type: website
+
+output-dir: docs
+
+website:
+  title: "Annie Huppenthal's Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: hobbies.qmd
+        text: Hobbies
+
+format:
+  html:
+    theme: vapor
+    css: styles.css
+    toc: true
+
+
+
